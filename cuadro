@@ -5,7 +5,7 @@ void main()
 	scanf_s("%i", &l);
 	scanf_s("%i", &h);
 	l* h = A;
-		printf("%i", A);
+		printf("%i", "el resultado es:" A);
 
 
 }
